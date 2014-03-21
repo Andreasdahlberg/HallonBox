@@ -1,0 +1,25 @@
+ULTIBOARD DRILL REPORT
+
+Design: dac_amp
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Inch, 2.4 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                LAMINATION
+dac_amp - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1   0.0354    PTH     62
+   2   0.0350    PTH      9
+   3   0.0315    PTH      4
+   4   0.0236    PTH     11
+   5   0.0392    PTH      5
+   6   0.0140    PTH     15
