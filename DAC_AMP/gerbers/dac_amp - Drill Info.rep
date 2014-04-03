@@ -18,8 +18,8 @@ dac_amp - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
 
 TOOL     SIZE   TYPE  COUNT
    1   0.0354    PTH     62
-   2   0.0350    PTH      9
-   3   0.0315    PTH      4
-   4   0.0236    PTH     11
-   5   0.0392    PTH      5
-   6   0.0140    PTH     15
+   2   0.0350    PTH     10
+   3   0.0236    PTH     11
+   4   0.0392    PTH      5
+   5   0.0140    PTH     15
+   6   0.0315    PTH      4

@@ -213,3 +213,5 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+*.ewprj (Security copy)
+*.ms13 (Security copy)
